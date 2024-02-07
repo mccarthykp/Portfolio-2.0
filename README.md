@@ -1,1 +1,10 @@
-# Portfolio-2.0
+# Software Development Portfolio 2.0
+
+ Hey! I'm Kevin McCarthy, an experienced software developer with over 4 years of experience. I am passionate about blockchain technology, design, innovation and contributing to dynamic, collaborative teams. Welcome to my portfolio where I showcase my projects and skills.
+
+
+### Thank you for visiting my portfolio! Feel free to connect with me:
+
+- **Email:** [mccarki.p@gmail.com](mailto:mccarki.p@gmail.com)
+
+- **LinkedIn:** [linkedin.com/in/mccarthykp](linkedin.com/in/mccarthykp)
