@@ -5,6 +5,6 @@
 
 ### Thank you for visiting my portfolio! Feel free to connect with me:
 
-- **Email:** [mccarki.p@gmail.com](mailto:mccarki.p@gmail.com)
+- **Email:** [mccarthy.kevin@proton.me](mailto:mccarthy.kevin@proton.me)
 
 - **LinkedIn:** [linkedin.com/in/mccarthykp](linkedin.com/in/mccarthykp)
